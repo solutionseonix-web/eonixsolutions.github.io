@@ -1,25 +1,17 @@
-# Eonix Solutions — GitHub Pages Website
+# Eonix Solutions — Final Light Theme Website
 
-Clean static website package for Eonix Solutions.
+Static GitHub Pages website for Eonix Solutions.
 
-## Files
-- `index.html` — website structure/content
-- `style.css` — responsive black/orange design
-- `script.js` — mobile menu, year, email enquiry form
-- `eonix-logo-final.png` — transparent Eonix logo for dark header/footer
-- `derma-clinic-final.jpg` — Derma Clinic project preview
-- `zipharm-final.jpg` — Zipharm project preview
-- `vu-mirpur-final.jpg` — Virtual University Mirpur Campus project preview
+## Included
+- White and orange professional interface
+- Eonix logo with visible “Eonix Solutions” brand name in the header
+- Three portfolio projects with local image files
+- Official Facebook, Instagram and LinkedIn links
+- Official-color social icons
+- WhatsApp links and floating WhatsApp button
+- Gmail-styled email icon and clickable email address
+- All course cards have an Enroll Now button opening WhatsApp
+- Contact enquiry form opens a ready-to-send email to solutionseonix@gmail.com
 
-## Contact links
-- WhatsApp: +966 50 285 1250
-- Email: solutionseonix@gmail.com (opens Gmail compose)
-- Facebook: https://www.facebook.com/Eonix.solution
-- Instagram: https://www.instagram.com/eonix_solutions
-- LinkedIn: https://www.linkedin.com/in/eonix-solutions-b15768432/
-
-TikTok is intentionally not included.
-
-## GitHub Pages upload
-Upload all files from this folder to the repository root, then commit directly to `main`.
-Make sure `index.html` remains in the repository root.
+## Important
+Because this is a free static GitHub Pages website, the enquiry form uses `mailto:`. It opens the visitor's email application with the enquiry already filled in; it does not silently send/store submissions on a server. A form backend such as Formspree would be needed for automatic server-side email delivery.
