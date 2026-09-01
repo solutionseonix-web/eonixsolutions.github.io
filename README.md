@@ -1,29 +1,25 @@
-# Eonix Solutions — Final Website
+# Eonix Solutions — GitHub Pages Website
 
-Free static website for GitHub Pages. No monthly or annual hosting plan is required.
+Clean static website package for Eonix Solutions.
 
 ## Files
-- `index.html` — website content and links
-- `style.css` — design and responsive layout
-- `script.js` — menu and email enquiry behavior
-- `eonix-logo.png` — Eonix Solutions logo
-- `projects/` — portfolio project visuals
+- `index.html` — website structure/content
+- `style.css` — responsive black/orange design
+- `script.js` — mobile menu, year, email enquiry form
+- `eonix-logo-final.png` — transparent Eonix logo for dark header/footer
+- `derma-clinic-final.jpg` — Derma Clinic project preview
+- `zipharm-final.jpg` — Zipharm project preview
+- `vu-mirpur-final.jpg` — Virtual University Mirpur Campus project preview
 
-## Contact
+## Contact links
 - WhatsApp: +966 50 285 1250
-- WhatsApp: +92 340 8942766
-- Email: solutionseonix@gmail.com
-
-## Social Profiles
+- Email: solutionseonix@gmail.com (opens Gmail compose)
 - Facebook: https://www.facebook.com/Eonix.solution
 - Instagram: https://www.instagram.com/eonix_solutions
 - LinkedIn: https://www.linkedin.com/in/eonix-solutions-b15768432/
-- TikTok: not currently included
 
-## Portfolio
-1. Derma Clinic Health & Care
-2. Zipharm Health & Beauty
-3. Virtual University of Pakistan — Mirpur Campus
+TikTok is intentionally not included.
 
-## GitHub Pages
-Upload the files to the root of the `main` branch and keep the `assets` folder with its contents. GitHub Pages can publish this static site without paid hosting.
+## GitHub Pages upload
+Upload all files from this folder to the repository root, then commit directly to `main`.
+Make sure `index.html` remains in the repository root.
