@@ -6,8 +6,8 @@ Free static website for GitHub Pages. No monthly or annual hosting plan is requi
 - `index.html` — website content and links
 - `style.css` — design and responsive layout
 - `script.js` — menu and email enquiry behavior
-- `assets/eonix-logo.png` — Eonix Solutions logo
-- `assets/projects/` — portfolio project visuals
+- `eonix-logo.png` — Eonix Solutions logo
+- `projects/` — portfolio project visuals
 
 ## Contact
 - WhatsApp: +966 50 285 1250
