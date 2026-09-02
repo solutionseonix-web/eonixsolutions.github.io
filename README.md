@@ -1,22 +1,23 @@
-# Eonix Solutions Website — Premium v4
+# Eonix Solutions — Premium Website
 
-GitHub Pages-ready static website for Eonix Solutions.
+## GitHub Pages Upload
+Upload all files in this folder directly into the root of your GitHub Pages repository.
 
-## Included
-- Premium black/orange agency design
-- Responsive desktop/mobile layout
-- Hero growth dashboard visual
-- Services, Why Eonix and How We Work sections
-- 6 portfolio projects: 3 supplied client projects + 3 clearly labelled concept projects
-- Original SVG visuals for concept projects (no external image hosting required)
-- Professional course cards with WhatsApp enrolment links
-- Facebook, Instagram and LinkedIn links
-- WhatsApp floating CTA and contact form using email compose
-- SEO meta tags and favicon
+The portfolio showcase visuals are intentionally stored in the repository root so GitHub Pages can load them reliably without requiring an `assets/` subfolder.
 
-## Deploy
-Upload all files/folders in this ZIP to the root of your GitHub Pages repository.
-Make sure `index.html` is in the repository root.
+### Main files
+- `index.html`
+- `style.css`
+- `script.js`
+- `eonix-logo-final.png`
+- `favicon.png`
+- `derma-clinic-final.jpg`
+- `zipharm-final.jpg`
+- `vu-mirpur-final.jpg`
+- `social-growth.png`
+- `aura-brand.png`
+- `novafit-web.png`
 
-## Note
-The three concept portfolio items are intentionally labelled `CONCEPT PROJECT` so they can showcase Eonix capabilities without presenting fictional client work as real client results.
+### Notes
+- `favicon.png` is a dedicated white-circle browser icon for clearer display in desktop browser tabs.
+- No external image paths are required for the portfolio visuals.
