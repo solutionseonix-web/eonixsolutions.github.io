@@ -36,3 +36,15 @@ This package assumes the current GitHub Pages URL is:
 `https://solutionseonix-web.github.io/eonixsolutions.github.io/`
 
 If the actual live URL is different (for example, a custom domain), update the canonical URL, Open Graph URLs, JSON-LD URLs, `robots.txt`, and `sitemap.xml` to the exact live URL before submission.
+
+## Search engine setup (account verification)
+The site is prepared for Google Search Console, Bing Webmaster Tools and other crawlers with canonical metadata, robots.txt, sitemap.xml, Open Graph metadata, favicon, and Schema.org structured data.
+
+**Important:** Google/Bing verification codes are unique to the owner's account and cannot be generated in advance. After adding the site property in Search Console, provide the generated verification meta tag (or verification HTML filename/file) before the final upload if verification is required.
+
+Recommended order after deployment:
+1. Verify the site in Google Search Console.
+2. Submit `sitemap.xml`.
+3. Inspect the homepage and use **Request indexing**.
+4. Verify/import the site in Bing Webmaster Tools and submit the same sitemap.
+5. Keep the site public and publish occasional branded/service content to build search visibility.
