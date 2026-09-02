@@ -48,3 +48,12 @@ Recommended order after deployment:
 3. Inspect the homepage and use **Request indexing**.
 4. Verify/import the site in Bing Webmaster Tools and submit the same sitemap.
 5. Keep the site public and publish occasional branded/service content to build search visibility.
+
+
+## V11 Interface Update
+- Premium black/orange interface inspired by the approved Eonix visual direction.
+- Dark sticky navigation with social links and WhatsApp contact CTA.
+- Hero section now uses a dedicated digital marketing visual overlay/background image.
+- Services, portfolio, courses, contact and footer sections updated to the same dark premium visual system.
+- Google Search Console verification file is retained.
+- Bing/Google sitemap and SEO metadata are retained.
